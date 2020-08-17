@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> Python 3 because that was the default (and because pre work is configured for 3)
+> Python 3 because that was the default (and because pre work is configured for 3)
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
->> Python 3.8.3
+> Python 3.8.3
 
  
 
